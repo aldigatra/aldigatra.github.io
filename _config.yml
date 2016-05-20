@@ -1,6 +1,6 @@
 # Site
 title:              Aldi Gatra
-bio:                'Minimal, one column jekyll theme.'
+bio:                'Selamat Datang Kawan Kawan Indonesia.'
 description:        "Moon is a minimal, one column jekyll theme for your blog."
 reading_time:       true
 words_per_minute:   200
@@ -44,7 +44,7 @@ github:             username
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          username
+instagram:          instagram.com/aldigatra
 #lastfm:            username
 #tumblr:            username
 #pinterest:         username
